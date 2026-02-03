@@ -101,7 +101,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const wedate = document.getElementById("wedate");
         const btns = document.getElementById("btns");
         btns.style.display = "none";
-        wedate.innerText = " Yaaaayyyyy you said yes, ❤️😘";
+        wedate.innerText = " Yaaaayyyyy you said yes, ❤️😘, Now guess if the rose in the background picture was real or not ? ";
 
         // Open index1.html in a new tab
         window.open("index1.html", "_blank");
