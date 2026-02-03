@@ -51,7 +51,6 @@ document.addEventListener("DOMContentLoaded", function () {
   
   const blackmail = [
     "Please",
-    "I'm begging you",
     "I'm gonna cry",
     "I'm sad",
     "🥲",
